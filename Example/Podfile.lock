@@ -1,0 +1,16 @@
+PODS:
+  - TBTResourcesPod (0.1.0)
+
+DEPENDENCIES:
+  - TBTResourcesPod (from `../`)
+
+EXTERNAL SOURCES:
+  TBTResourcesPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TBTResourcesPod: 60fb19ec8dad9e24fea1cb8d0954a141efde1796
+
+PODFILE CHECKSUM: 0a8b0eeebcc0dead970cac157492e65b6c436055
+
+COCOAPODS: 1.11.3
