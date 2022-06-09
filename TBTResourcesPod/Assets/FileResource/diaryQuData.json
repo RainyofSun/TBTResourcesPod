@@ -1,0 +1,79 @@
+[
+    {
+        "checkGroupVOS": [
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "配电箱查验"
+            },
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "水电材料查验"
+            },
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "防水材料查验"
+            },
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "电路改造查验"
+            },
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "给水改造查验"
+            },
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "排水改造查验"
+            }
+        ],
+        "noPassNumber": 0,
+        "progressRate": 80,
+        "resultId": 2723,
+        "submitTime": 1544515365,
+        "supervisorId": 131723,
+        "supervisorName": "xiao_ci1",
+        "taskId": 8615,
+        "taskName": 2518,
+        "taskPropertyName": "水电质检",
+        "totalCheckNumber": 38,
+        "yid": 1433664,
+        "fileLists":["http://img5.duitang.com/uploads/item/201409/23/20140923094045_BNYji.thumb.700_0.png","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg"]
+    },
+    {
+        "checkGroupVOS": [
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "配电箱查验"
+            },
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "水电材料查验"
+            },
+            {
+                "questionNoPassNum": 0,
+                "questionPassNum": 0,
+                "typeName": "防水材料查验"
+            }
+        ],
+        "noPassNumber": 0,
+        "progressRate": 79,
+        "resultId": 2723,
+        "submitTime": 1544515365,
+        "supervisorId": 131723,
+        "supervisorName": "xiao_ci1",
+        "taskId": 8615,
+        "taskName": 2518,
+        "taskPropertyName": "水电质检",
+        "totalCheckNumber": 38,
+        "yid": 1433664,
+        "fileLists":["http://img5.duitang.com/uploads/item/201409/23/20140923094045_BNYji.thumb.700_0.png","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg","http://b-ssl.duitang.com/uploads/item/201812/05/20181205211932_xvslr.jpeg"]
+    }
+]

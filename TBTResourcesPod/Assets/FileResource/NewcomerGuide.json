@@ -1,0 +1,135 @@
+{
+    "version": -99,
+    "background": "https://pic.to8to.com/pic/ask/20220228/50544c8a05469ddcde88208623181f89.png",
+    "submitBtnText": "开启你的装修之旅",
+    "adKey": "8714e29d59a57fcf",
+    "rootIssues": [
+        {
+            "qid": 0,
+            "question": "现在处于什么装修阶段",
+            "selectType": 0,
+            "options": [
+                {
+                    "tid": 0,
+                    "tag": "准备装修",
+                    "selected": true,
+                    "subIssues": [
+                        {
+                            "qid": 0,
+                            "question": "你打算的装修时间",
+                            "selectType": 0,
+                            "options": [
+                                {
+                                    "tid": 0,
+                                    "tag": "1个月内",
+                                    "selected": true
+                                },
+                                {
+                                    "tid": 0,
+                                    "tag": "3个月内",
+                                    "selected": false
+                                },
+                                {
+                                    "tid": 0,
+                                    "tag": "半年内",
+                                    "selected": false
+                                },
+                                {
+                                    "tid": 0,
+                                    "tag": "半年以上",
+                                    "selected": false
+                                },
+                                {
+                                    "tid": 0,
+                                    "tag": "暂无计划",
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tid": 0,
+                    "tag": "正在装修",
+                    "selected": false,
+                    "subIssues": []
+                },
+                {
+                    "tid": 0,
+                    "tag": "装修完毕",
+                    "selected": false,
+                    "subIssues": []
+                }
+            ]
+        },
+        {
+            "qid": 0,
+            "question": "你的房屋面积",
+            "selectType": 0,
+            "options": [
+                {
+                    "tid": 0,
+                    "tag": "60m²以下",
+                    "selected": true
+                },
+                {
+                    "tid": 0,
+                    "tag": "60-80m²",
+                    "selected": false
+                },
+                {
+                    "tid": 0,
+                    "tag": "81-100m²",
+                    "selected": false
+                },
+                {
+                    "tid": 0,
+                    "tag": "101-120m²",
+                    "selected": false
+                },
+                {
+                    "tid": 0,
+                    "tag": "121-150m²",
+                    "selected": false
+                },
+                {
+                    "tid": 0,
+                    "tag": "151m²以上",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "qid": 0,
+            "question": "主要想了解哪些方面",
+            "selectType": 1,
+            "options": [
+                {
+                    "tid": 0,
+                    "tag": "选风格方案",
+                    "selected": true
+                },
+                {
+                    "tid": 0,
+                    "tag": "定预算",
+                    "selected": false
+                },
+                {
+                    "tid": 0,
+                    "tag": "找装修公司",
+                    "selected": false
+                },
+                {
+                    "tid": 0,
+                    "tag": "学装修知识",
+                    "selected": false
+                },
+                {
+                    "tid": 0,
+                    "tag": "看家居家电",
+                    "selected": false
+                }
+            ]
+        }
+    ]
+}

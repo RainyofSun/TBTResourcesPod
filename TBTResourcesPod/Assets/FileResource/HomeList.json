@@ -1,0 +1,790 @@
+{
+    "result": [{
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/20210711/1397f9cf0685762bea0ca2d32ce41906.JPG!500.webp",
+            "imgs": ["https://pic.to8to.com/case/20210711/03eaaea61523f78b89178b91a51a8b76.JPG!500.webp", "https://pic.to8to.com/case/20210711/47349500e3a5b5c41e64cfe5d604f402.JPG!500.webp", "https://pic.to8to.com/case/20210711/1370be99a88755f81c312b405c768e01.JPG!500.webp", "https://pic.to8to.com/case/20210711/4fa55a7c02413091359407d379b77963.JPG!500.webp", "https://pic.to8to.com/case/20210711/60e3df44fb48e3f428639941f7b434e7.JPG!500.webp", "https://pic.to8to.com/case/20210711/131f7e10c901b08203e4df1a21c0c925.JPG!500.webp", "https://pic.to8to.com/case/20210711/38ee5311e22f8140152a4fc744ae64dd.JPG!500.webp", "https://pic.to8to.com/case/20210711/8444c0d0a6615c5c305769575a8b6dff.JPG!500.webp"],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "170m² · 三居 · 现代简约",
+            "subIcons": [],
+            "leftBottomTag": {
+                "imgUrl": "https://pic.to8to.com/pic/ask/2021817/4aaf20c4168e3268d70ff9b52c41fc56.png",
+                "width": 48,
+                "text": "编辑推荐",
+                "tag": 2,
+                "height": 48
+            },
+            "width": 1125,
+            "title": "170㎡现代风格，打造一个童趣乐园",
+            "height": 664,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/78/headphoto_8412378.jpg?1629446400",
+            "subIcon": "",
+            "title": "彩兔装饰"
+        },
+        "interaction": {
+            "moduleCode": "companyCase",
+            "num": 105,
+            "text": "105",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "case",
+            "key": "case_type"
+        }, {
+            "value": "2593051",
+            "key": "case_id"
+        }, {
+            "value": "feed",
+            "key": "ad_type"
+        }, {
+            "value": "7526",
+            "key": "ad_id"
+        }, {
+            "value": "https://pic.to8to.com/case/20210711/1397f9cf0685762bea0ca2d32ce41906.JPG!500.webp",
+            "key": "ad_src"
+        }, {
+            "value": "0",
+            "key": "user_tag"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "manualOperation",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 13,
+        "content": {
+            "heat": -1,
+            "collectSource": "manualOperation",
+            "router": "to8to://tbtrouter/housecase/case/detail/act?showMenu=1&type=2&caseId=2593051&coverId=19267542",
+            "adId": "7526",
+            "id": "2593051",
+            "source": 2,
+            "type": "b0017",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "http://pic.to8to.com/infofed/20210820/c65e79107e753fd017f97350f86b5488.png!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "",
+            "subIcons": [],
+            "width": 540,
+            "title": "  ",
+            "height": 720,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "",
+            "subIcon": "",
+            "title": ""
+        },
+        "interaction": {
+            "num": 0,
+            "text": "",
+            "type": 0,
+            "status": false
+        },
+        "report": [{
+            "value": "feed",
+            "key": "ad_type"
+        }, {
+            "value": "7521",
+            "key": "ad_id"
+        }, {
+            "value": "http://pic.to8to.com/infofed/20210820/c65e79107e753fd017f97350f86b5488.png",
+            "key": "ad_src"
+        }, {
+            "value": "0",
+            "key": "user_tag"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "manualOperation",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 0,
+        "content": {
+            "collectSource": "manualOperation",
+            "router": "https://napp.to8to.com/muwf/pages/customization.html?t8t_screen_full=true&t8t_statusbar_show_when_fullscreen=true",
+            "adId": "7521",
+            "id": "7521",
+            "type": "b0026",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "http://pic.to8to.com/live/day_210729/20210729_2059bdbcdfac10db4f92Drkd5kacBstB.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "",
+            "subIcons": [{
+                "imgUrl": "https://pic.to8to.com/pic/ask/2021726/1ae2c8ebf2d26f34757b5daf6168a169.png",
+                "width": 114,
+                "position": 3,
+                "height": 54
+            }],
+            "width": 1224,
+            "title": "30W预算，全屋基装完成，等待软装进场分享下基础装修的步骤（我这里是装修公司半包，具体情况自己调整）1、沟通确定效果图and设计图开工施工2、墙体拆除拆除完成可以紧接着刮除工业大白、涂刷墙固地固，也可以放在油工之前做，看自己安排注：这里橱柜、瓷砖、木地板可以进行量尺，然后根据安排进行复尺施工，主要是橱柜，瓷砖跟木地板不会有太大的出入3、中央空调安装提前定中央空调，现场安装也要和设计师互相交底沟通4、水电铺设，记得现场水电交底沟通注：浴室花洒水龙头需要预埋的，记得提前购买          需要隐藏排水记得沟通墙排这期间可以购买止逆阀！厨卫需要的吊顶前准备好！5、吊顶施工，在瓷砖之前可以减少瓷砖损伤，各种吊顶上面的孔记得提前打好！吊顶上方的施工记得提前做好！做无主灯需要嵌入轨道灯！记得提前订购预埋轨道！这期间可以定好地砖、墙砖，同时记得购买地漏注：需要贴砖地方都考虑到减少后期单独施工工费6、木饰面，护墙板，装饰性墙面木基层施工7、瓦工墙体改造施工8、瓦工防水施工9、瓷砖铺贴施工注：不想要过门石的一定给师傅说！购买长地漏不要造型的也要给师傅提前说！这期间可以定制飘窗石 窗台石！我这里飘窗是选用的瓷砖，窗台石放在油工后了！尽量在前面做！10、木地板地面找平施工11、油工施工注：如果有艺术漆施工的话，记得让乳胶漆稍微多涂刷出来一部分！让艺术漆来收口！这样墙面更自然！12、木地板铺设13、卫生间集成吊顶、燃气热水器安装注：需要拆除阳台热水器记得油工前拆除！至此基装全部完成！这里可以进行橱柜复尺下单！嵌入电器的记得提前订购电器告知橱柜设计师尺寸！切记装修宜慢不宜快！！！宁可停工想好怎么装！也不要将就施工后期后悔！！",
+            "height": 1631,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/29/headphoto_14118429.jpg?1629179165865",
+            "subIcon": "http://img.to8to.com/app/icon/expert_identity.png",
+            "title": "王小彬和二傻"
+        },
+        "interaction": {
+            "moduleCode": "diary",
+            "num": 95,
+            "text": "95",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "sheet",
+            "key": "diary_type"
+        }, {
+            "value": "2177972",
+            "key": "diary_id"
+        }, {
+            "value": "feed",
+            "key": "ad_type"
+        }, {
+            "value": "7522",
+            "key": "ad_id"
+        }, {
+            "value": "http://pic.to8to.com/live/day_210729/20210729_2059bdbcdfac10db4f92Drkd5kacBstB.jpg!500.webp",
+            "key": "ad_src"
+        }, {
+            "value": "0",
+            "key": "user_tag"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "manualOperation",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 12,
+        "content": {
+            "heat": -1,
+            "collectSource": "manualOperation",
+            "router": "to8to://tbtrouter/locale/detail/act?localeid=7048163&diary_id=2177972",
+            "adId": "7522",
+            "id": "2177972",
+            "source": 0,
+            "type": "b0011",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "http://pic.to8to.com//social/day_20190712/340a9d9022fa5734b31b5a540c544497.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "",
+            "subIcons": [],
+            "originUrl": "http://pic.to8to.com//social/day_20190712/340a9d9022fa5734b31b5a540c544497.jpg",
+            "width": 1000,
+            "title": "88㎡舒适北欧风三居室，清新又温暖~​​​",
+            "height": 666
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/89/headphoto_1600989.jpg?1629361415256",
+            "subIcon": "",
+            "title": "我为装修狂"
+        },
+        "interaction": {
+            "moduleCode": "ugcMeitu",
+            "num": 2535,
+            "text": "999+",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!709!70901|7!711!71107!03|7!711!71107!05|7!701!70101!07|7!710!71001!04|8!801!80101!09",
+            "key": "content_tag"
+        }, {
+            "value": "ugc_photo",
+            "key": "photo_type"
+        }, {
+            "value": "154808",
+            "key": "photo_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "dmpHeat",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 0,
+        "content": {
+            "collectSource": "dmpHeat",
+            "router": "to8to://tbtrouter/ugc/pic/detail/act?ugc_id=154808",
+            "adId": "0",
+            "id": "154808",
+            "source": 0,
+            "type": "b0016",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "http://pic.to8to.com/live/day_210609/20210609_34026ab721115b9fd5efl01FXhzOKoyC.jpeg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "",
+            "subIcons": [{
+                "imgUrl": "https://pic.to8to.com/pic/ask/2021726/1ae2c8ebf2d26f34757b5daf6168a169.png",
+                "width": 114,
+                "position": 3,
+                "height": 54
+            }],
+            "width": 1220,
+            "title": "很多人都是第一次装修房子，不知道怎么挑选衣柜，现在大部分衣柜都是定制的了，所以你装修的时候，要选购衣柜，就要了解定制衣柜的一些注意事项了，今天我总结了定制衣柜需注意的8个要点，搞懂了，也许会省下几千块！",
+            "height": 1626,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/39/headphoto_16776039.jpg?1629374373741",
+            "subIcon": "",
+            "title": "滴滴的装修口袋"
+        },
+        "interaction": {
+            "moduleCode": "diary",
+            "num": 79,
+            "text": "79",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!715!71501!28|7!709!70920!20|7!712!71201!07|8!801!80101!02|7!712!71205|7!701!70101!01|7!721!72103",
+            "key": "content_tag"
+        }, {
+            "value": "sheet",
+            "key": "diary_type"
+        }, {
+            "value": "2159823",
+            "key": "diary_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "offsiteMix",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 12,
+        "content": {
+            "collectSource": "offsiteMix",
+            "router": "to8to://tbtrouter/locale/detail/act?localeid=7052504&diary_id=2159823",
+            "adId": "0",
+            "id": "2159823",
+            "source": 0,
+            "type": "b0011",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/1909/19/20190919_36e2e58fc622d1f4a0bazjrpvt1i5jn1.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "",
+            "subIcons": [],
+            "width": 1000,
+            "title": "次卧是客房，也是为未来准备的儿童房。 定制一体式榻榻米床，书柜和书桌，将小空间完美的利用起来，丰富了功能性。",
+            "height": 1333,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/17/headphoto_3403017.jpg?1629446400",
+            "subIcon": "",
+            "title": "浙江优泽装饰"
+        },
+        "interaction": {
+            "moduleCode": "beautyChart",
+            "num": 730,
+            "text": "730",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!703!70301!01|7!709!70916!05|7!702!70201!02|7!701!70101!01|7!711!71104!17|7!715!71501!11|7!704!70402",
+            "key": "content_tag"
+        }, {
+            "value": "des_photo",
+            "key": "photo_type"
+        }, {
+            "value": "13776634",
+            "key": "photo_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "dmpHeat",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 0,
+        "content": {
+            "collectSource": "dmpHeat",
+            "router": "to8to://tbtrouter/base/detail?picIds=%5B%7B%22imageId%22%3A13776634%2C%22imageUrl%22%3A%22http%3A%2F%2Fpic.to8to.com%2Fcase%2F1909%2F19%2F20190919_36e2e58fc622d1f4a0bazjrpvt1i5jn1.jpg%22%2C%22width%22%3A1000%2C%22type%22%3A1%2C%22height%22%3A1333%7D%5D",
+            "adId": "0",
+            "id": "13776634",
+            "source": 9,
+            "type": "b0001",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic50.t8tcdn.com/adcms/ad/4b331306d5fe8263cce076033ace1f10.jpg",
+            "imgs": [],
+            "isFreeCoverSizeLimit": true,
+            "subTitle": "",
+            "subIcons": [],
+            "width": 492,
+            "title": "领券中心",
+            "height": 342,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "",
+            "subIcon": "",
+            "title": ""
+        },
+        "interaction": {
+            "num": 0,
+            "text": "",
+            "type": 0,
+            "status": false
+        },
+        "report": [{
+            "value": "ad",
+            "key": "ad_type"
+        }, {
+            "value": "20969",
+            "key": "ad_id"
+        }, {
+            "value": "https://pic50.t8tcdn.com/adcms/ad/4b331306d5fe8263cce076033ace1f10.jpg",
+            "key": "ad_src"
+        }, {
+            "value": "https://mapp.to8to.com/wap/t8tdapp/couponCenter",
+            "key": "widget_href"
+        }, {
+            "value": "homepage_ad_cell",
+            "key": "widget_uid"
+        }, {
+            "value": "ads",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 0,
+        "content": {
+            "collectSource": "ads",
+            "router": "https://mapp.to8to.com/wap/t8tdapp/couponCenter",
+            "adId": "0",
+            "id": "20969",
+            "source": 0,
+            "type": "b0009",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/2012/23/20201223_b9931090f7fb91ebd87ci8jhsehiyjky.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "147m² · 四居及以上 · 现代简约",
+            "subIcons": [],
+            "width": 1000,
+            "title": "东方蓝海无主灯设计轻奢4居室",
+            "height": 750,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/1/headphoto_7307701.jpg?1629446400",
+            "subIcon": "",
+            "title": "芜湖福平装饰"
+        },
+        "interaction": {
+            "moduleCode": "companyCase",
+            "num": 36,
+            "text": "36",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!703!70301!05|7!704!70408|7!715!71501!28|7!702!70201!04|7!704!70407|7!704!70406|7!701!70101!01|7!704!70408!07|7!709!70915!05|7!704!70404|7!724!72405!01|7!704!70403|7!704!70401|7!714!71401!05",
+            "key": "content_tag"
+        }, {
+            "value": "case",
+            "key": "case_type"
+        }, {
+            "value": "2505163",
+            "key": "case_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "offsiteMix",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 8,
+        "content": {
+            "collectSource": "offsiteMix",
+            "router": "to8to://tbtrouter/housecase/case/detail/act?showMenu=1&type=2&caseId=2505163&coverId=18156808",
+            "adId": "0",
+            "id": "2505163",
+            "source": 2,
+            "type": "b0017",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/2009/20/20200920_385e78684a2cab5d7f23dm8aegijfyrt.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "147m² · 四居及以上 · 现代简约",
+            "subIcons": [],
+            "width": 1000,
+            "title": "现代风格直撩人心，是梦想家的样子",
+            "height": 750,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/40/headphoto_12389240.jpg?1629446400",
+            "subIcon": "",
+            "title": "匠仁装饰"
+        },
+        "interaction": {
+            "moduleCode": "companyCase",
+            "num": 191,
+            "text": "191",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!704!70403!02|7!703!70301!05|7!715!71501!28|7!702!70201!04|7!704!70405|7!701!70101!01|7!704!70408!07|7!704!70404|7!724!72405!02|7!714!71401!04|7!704!70402|7!709!70919!11|7!704!70401",
+            "key": "content_tag"
+        }, {
+            "value": "case",
+            "key": "case_type"
+        }, {
+            "value": "2449334",
+            "key": "case_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "offsiteMix",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 8,
+        "content": {
+            "collectSource": "offsiteMix",
+            "router": "to8to://tbtrouter/housecase/case/detail/act?showMenu=1&type=2&caseId=2449334&coverId=17419600",
+            "adId": "0",
+            "id": "2449334",
+            "source": 2,
+            "type": "b0017",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/2012/16/20201216_1c02d3db0dc2f83ffa5cazmihuni9zyi.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "120m² · 三居 · 美式经典",
+            "subIcons": [],
+            "width": 1000,
+            "title": "120㎡精装房完美逆袭",
+            "height": 748,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/31/headphoto_13863431.jpg?1629446400",
+            "subIcon": "",
+            "title": "广州速享家装"
+        },
+        "interaction": {
+            "moduleCode": "companyCase",
+            "num": 38,
+            "text": "38",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!703!70301!04|7!704!70403!01|7!704!70402!01|7!715!71501!28|7!704!70407|7!702!70201!03|7!709!70920!01|7!704!70405|7!704!70406!01|7!704!70408!07|8!802!80201!03|7!704!70408!01|7!704!70404|7!724!72405!02|7!704!70402|7!704!70401|7!701!70101!05|7!714!71401!05",
+            "key": "content_tag"
+        }, {
+            "value": "case",
+            "key": "case_type"
+        }, {
+            "value": "2501799",
+            "key": "case_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "offsiteMix",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 8,
+        "content": {
+            "collectSource": "offsiteMix",
+            "router": "to8to://tbtrouter/housecase/case/detail/act?showMenu=1&type=2&caseId=2501799&coverId=18113307",
+            "adId": "0",
+            "id": "2501799",
+            "source": 2,
+            "type": "b0017",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "http://pic.to8to.com/zxgl/2018/10/16/20181016_74780623294665073f788uodPcI8MgPU.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "",
+            "subIcons": [],
+            "width": 1100,
+            "title": "阳台要不要砌洗衣台？这么一改，比之前强100倍！",
+            "height": 734,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.shejiben.com/user/12/sjb_headphoto_4512-s.jpg?1577425910",
+            "subIcon": "",
+            "title": "家装狂想曲"
+        },
+        "interaction": {
+            "moduleCode": "article",
+            "num": 73,
+            "text": "73",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!709!70901|7!704!70406|7!713!71301!04",
+            "key": "content_tag"
+        }, {
+            "value": "article",
+            "key": "article_type"
+        }, {
+            "value": "33275",
+            "key": "article_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "offsiteMix",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 0,
+        "content": {
+            "collectSource": "offsiteMix",
+            "router": "to8to://tbtrouter/strategy/detail?url=https%3A%2F%2Fmapp.to8to.com%2Farticle%2F33275&strategyId=33275",
+            "adId": "0",
+            "id": "33275",
+            "source": 0,
+            "type": "b0007",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/2009/29/20200929_b96ff96d39a7f6953493vh3391osde02.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "130m² · 四居及以上 · 现代简约",
+            "subIcons": [],
+            "width": 1000,
+            "title": "现代轻奢风格，四室两厅",
+            "height": 750,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/34/headphoto_2490534.jpg?1629446400",
+            "subIcon": "",
+            "title": "苏匠装饰"
+        },
+        "interaction": {
+            "moduleCode": "companyCase",
+            "num": 146,
+            "text": "146",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!703!70301!05|7!704!70408|7!715!71501!28|7!702!70201!04|7!704!70406|7!704!70405|7!701!70101!01|7!704!70408!07|7!709!70913!07|7!704!70404|7!704!70403|7!724!72405!02|7!704!70402|7!714!71401!03|7!704!70401",
+            "key": "content_tag"
+        }, {
+            "value": "case",
+            "key": "case_type"
+        }, {
+            "value": "2455698",
+            "key": "case_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "offsiteMix",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 8,
+        "content": {
+            "collectSource": "offsiteMix",
+            "router": "to8to://tbtrouter/housecase/case/detail/act?showMenu=1&type=2&caseId=2455698&coverId=17503169",
+            "adId": "0",
+            "id": "2455698",
+            "source": 2,
+            "type": "b0017",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/1909/03/20190903_f41a7003c4a1e866260f0y9h1ngww4xn.jpg!500.webp",
+            "imgs": [],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "78m² · 二居 · 现代简约",
+            "subIcons": [],
+            "width": 1000,
+            "title": "80后小夫妻的三口之家，78平方简约",
+            "height": 748,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "https://pic.to8to.com/user/70/headphoto_2993270.jpg?1629446400",
+            "subIcon": "",
+            "title": "盛典装饰"
+        },
+        "interaction": {
+            "moduleCode": "companyCase",
+            "num": 183,
+            "text": "183",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "7!703!70301!02|7!704!70403!02|7!702!70201!02|7!704!70402!01|7!715!71501!28|7!704!70405|7!701!70101!01|7!704!70408!07|7!709!70920!03|7!704!70404|7!724!72405!01|7!704!70403|7!714!71401!03|7!704!70401",
+            "key": "content_tag"
+        }, {
+            "value": "case",
+            "key": "case_type"
+        }, {
+            "value": "2094152",
+            "key": "case_id"
+        }, {
+            "value": "homepage_info_list",
+            "key": "widget_uid"
+        }, {
+            "value": "offsiteMix",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 8,
+        "content": {
+            "collectSource": "offsiteMix",
+            "router": "to8to://tbtrouter/housecase/case/detail/act?showMenu=1&type=2&caseId=2094152&coverId=13896398",
+            "adId": "0",
+            "id": "2094152",
+            "source": 2,
+            "type": "b0017",
+            "expenseNo": ""
+        }
+    }, {
+        "cover": {
+            "imgUrl": "https://pic.to8to.com/case/2006/16/20200616_3a1b08ca7df3ee237832gnzklvx0ygk5.jpg!500.webp",
+            "imgs": ["http://pic.to8to.com//user/95/headphoto_s_10118995_s.jpg?1629446400"],
+            "isFreeCoverSizeLimit": false,
+            "subTitle": "168m² · 四居及以上 · 其他",
+            "subIcons": [],
+            "width": 1000,
+            "title": "168㎡高级灰住宅,质感十足",
+            "height": 625,
+            "imgNum": 0
+        },
+        "bottom": {
+            "imgUrl": "http://pic.to8to.com//user/95/headphoto_s_10118995_s.jpg?1629446400",
+            "subIcon": "",
+            "title": "橡树装饰"
+        },
+        "interaction": {
+            "moduleCode": "companyCase",
+            "num": 110,
+            "text": "110",
+            "type": 1,
+            "status": false
+        },
+        "report": [{
+            "value": "cmp",
+            "key": "cmp_type"
+        }, {
+            "value": "10118995",
+            "key": "cmp_id"
+        }, {
+            "value": "橡树装饰",
+            "key": "cmp_title"
+        }, {
+            "value": "0",
+            "key": "ad_id"
+        }, {
+            "value": "homepage_local_company_cell",
+            "key": "widget_uid"
+        }, {
+            "value": "company",
+            "key": "collect_source"
+        }, {
+            "value": "推荐",
+            "key": "widget_type"
+        }],
+        "style": 8,
+        "content": {
+            "collectSource": "company",
+            "router": "to8to://tbtrouter/housecase/case/detail/act?showMenu=1&type=2&caseId=2389107",
+            "adType": 0,
+            "id": "2389107",
+            "source": 0,
+            "type": "b0004",
+            "expenseNo": ""
+        }
+    }],
+    "message": null,
+    "status": 200
+}

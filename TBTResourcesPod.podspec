@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TBTResourcesPod'
-  s.version          = '0.1.1'
+  s.version          = '0.2.0'
   s.summary          = 'TBT 资源私有库'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ Pod::Spec.new do |s|
 
   s.source_files = 'TBTResourcesPod/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'TBTResourcesPod' => ['TBTResourcesPod/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'TBTResourcesPod' => ['TBTResourcesPod/Assets/**/*']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
